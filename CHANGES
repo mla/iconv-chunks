@@ -1,0 +1,10 @@
+2015-05-02  Maurice Aubrey  <maurice.aubrey+iconv@gmail.com>
+
+  * Fix tempfile() call to automatically delete temp file.
+    Thanks to Carlos Tutté.
+
+  * Changed shebang line to use "env" rather than hardcoded perl path.
+
+2007-08-20  Maurice Aubrey  <maurice.aubrey+iconv@gmail.com>
+
+  * Original version
